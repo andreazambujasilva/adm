@@ -23,9 +23,6 @@ sudo apt update
 sudo apt upgrade
 
 sudo reboot
-
-
-sudo apt update -y && sudo init 6
 ```
 
 ### Passo 2: Instale o Git
