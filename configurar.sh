@@ -1,19 +1,3 @@
-#!/bin/bash
-
-# Função para exibir o banner do arquivo banner.sh
-display_banner() {
-  clear
-  if [ -f banner.sh ]; then
-    source banner.sh
-  else
-    echo "Banner não encontrado. Verifique se o arquivo banner.sh está na mesma pasta."
-  fi
-  sleep 3  # Tempo de exibição do banner (3 segundos)
-}
-
-# Exibe o banner informativo
-display_banner
-
 # Configuração automática da timezone para São Paulo
 echo "Configurando a timezone para São Paulo..."
 echo "America/Sao_Paulo" | sudo tee /etc/timezone
