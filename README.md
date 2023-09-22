@@ -1,7 +1,7 @@
 
 ---
 
-# Manual de Instalação dos Serviços - Sequência SYSTEMHELP
+# Manual de Instalação dos Serviços - Typebot Evolution e Chatwoot
 
 ## Requisitos do Sistema
 
