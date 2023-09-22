@@ -1,21 +1,3 @@
-#!/bin/bash
-
-sudo ln -s /caminho/para/seu/instalador.sh /usr/local/bin/menu
-
-# Função para exibir o banner do arquivo banner.sh
-display_banner() {
-  clear
-  if [ -f banner.sh ]; then
-    source banner.sh
-  else
-    echo "Banner não encontrado. Verifique se o arquivo banner.sh está na mesma pasta."
-  fi
-  sleep 3  # Tempo de exibição do banner (3 segundos)
-}
-
-# Exibe o banner informativo
-display_banner
-
 # Função para exibir o menu
 display_menu() {
   echo "===================================="
