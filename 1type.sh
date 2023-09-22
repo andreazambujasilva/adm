@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# Incluir o banner.sh para exibição do banner
-source ./banner.sh
-
 # Função para coletar uma variável com confirmação
 function coletar_com_confirmacao() {
   local mensagem="$1"
