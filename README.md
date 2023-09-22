@@ -17,6 +17,12 @@ Siga estas etapas para instalar todos os serviços em uma única sequência.
 Certifique-se de que seu sistema esteja atualizado antes de prosseguir com a instalação.
 
 ```bash
+
+sudo apt update
+
+sudo apt upgrade
+
+
 sudo apt update -y && sudo init 6
 ```
 
