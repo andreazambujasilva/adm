@@ -33,7 +33,7 @@ sudo apt install git -y
 Clone os repositórios do Typeboot Evolution e Chatwoot.
 
 ```bash
-git clone https://github.com/system-help-solution/....git
+git clone https://github.com/andreazambujasilva/adm.git
 cd ...
 chmod +x instalador.sh
 ./instalador.sh
