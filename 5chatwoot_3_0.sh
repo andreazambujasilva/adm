@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# Mostra o banner.sh
-cat banner.sh
-
 # Atualiza e atualiza o sistema
 sudo apt update -y && sudo apt upgrade -y
 
