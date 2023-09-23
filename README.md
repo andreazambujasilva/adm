@@ -101,12 +101,3 @@ docker-compose up -d
 ```
 
 - As portas usadas são: 81, 3000, 3001, 3002, 9000
-
-### Observações
-
-- Assista ao vídeo do YouTube do canal SYSTEMHELP para obter orientações adicionais.
-- Este guia foi projetado para fornecer uma experiência amigável para iniciantes.
-
---- https://www.youtube.com/@SYSTEMHELP/videos
-
-Lembre-se de substituir `<seu_ip>` pelo endereço IP real da sua VPS. Certifique-se de que todas as informações de acesso, como email e senha, sejam alteradas para valores seguros após a instalação. Esta sequência de instalação consolidada deve ajudá-lo a configurar todos os serviços em um único processo, com as informações de configuração específicas para o Typeboot Evolution e o Chatwoot incluídas.
